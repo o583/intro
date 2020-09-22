@@ -8,4 +8,4 @@
 ![NKUST](高雄科大.png "高雄科大")
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-[![1](https://www.img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo"1")
+[![1](https://img.youtube.com/vi/3d6SJn6Fm6w/0.jpg)](https://www.youtube.com/watch?v=3d6SJn6Fm6w"1")
