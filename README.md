@@ -6,3 +6,4 @@
 ###### 興趣：遊玩踏青]
 [高雄科大](https://www.nkust.edu.tw/)
 ![NKUST](高雄科大.png "高雄科大")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
