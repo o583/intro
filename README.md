@@ -26,4 +26,6 @@ _This text will be bold_
 
 \{*literal asterisks\}
 
--[x]@mentions
+- [x] @mentions
+
+- [ ] this is an incomplete item
