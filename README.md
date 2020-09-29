@@ -19,3 +19,11 @@ _This text will be italic_
 _This text will be bold_
 
 *You **can** combine them*
+
+\*literal asterisks\*
+
+\(literal asterisks\)
+
+\{*literal asterisks\}
+
+-[x]@mentions
