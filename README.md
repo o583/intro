@@ -14,7 +14,7 @@
 
 [![1](https://img.youtube.com/vi/3d6SJn6Fm6w/0.jpg)](https://www.youtube.com/watch?v=3d6SJn6Fm6w"1")
 
-
+<img src="https://img.youtube.com/vi/3d6SJn6Fm6w/0.jpg" alt="IMGUR LOGO" width="250"/>
 
 *This text will be italic*
 
